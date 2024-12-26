@@ -24,4 +24,4 @@ For the back-end, the packages used are Express TypeORM and uuid. The database i
 
 The code is written in English due to my personal preference and accessibility.
 
-In this project, Jairo Silva also participates: https://www.github.com/jairo2k5
+In this project, Jairo Silva also participates: https://www.github.com/C0ML1C3
